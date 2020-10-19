@@ -1,4 +1,4 @@
-## Eat Fucking Cookie
+## EatFuckingCookie
 
 > 🍪 Enjoy delicious cookies
 
