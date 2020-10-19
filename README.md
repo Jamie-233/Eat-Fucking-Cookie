@@ -1,7 +1,7 @@
-## EatFuckingCookie
+## Eat Fucking Cookie
 
 > 🍪 Enjoy delicious cookies
 
 ## Introduction
 
-EatFuckingCookie is a cookie manager. Help people easily add, delete, edit, search, import, export
+Eat-Fucking-Cookie is a cookie manager. Help people easily add, delete, edit, search, import, export
