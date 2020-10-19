@@ -4,6 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "build": "webpack-dev-server",
+    "build:prod": "webpack -p",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
@@ -22,5 +24,10 @@
     "webpack": "^5.1.3",
     "webpack-cli": "^4.0.0",
     "webpack-dev-server": "^3.11.0"
+  },
+  "dependencies": {
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0",
+    "react-router-dom": "^5.2.0"
   }
 }
