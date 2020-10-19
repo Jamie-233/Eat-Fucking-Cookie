@@ -2,7 +2,7 @@
   "name": "Eat-Fucking-Cookie",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "index-popup.js",
   "scripts": {
     "build": "webpack-dev-server",
     "build:prod": "webpack -p",
@@ -21,8 +21,8 @@
     "copy-webpack-plugin": "^6.2.1",
     "html-loader": "^1.3.2",
     "html-webpack-plugin": "^4.5.0",
-    "webpack": "^5.1.3",
-    "webpack-cli": "^4.0.0",
+    "webpack": "^4.44.2",
+    "webpack-cli": "^3.3.12",
     "webpack-dev-server": "^3.11.0"
   },
   "dependencies": {
