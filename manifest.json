@@ -1,0 +1,32 @@
+{
+  "name": "EatFuckingCookie",
+  "version": "0.1.0",
+  "default_locale": "en",
+  "homepage_url": "http://www.jiancun.io",
+  "description": "Edit Input Output Cookie",
+  "icons": {
+    "16": "./icon/cookie-16x16.png",
+    "32": "./icon/cookie-32x32.png",
+    "48": "./icon/cookie-48x48.png",
+    "128": "./icon/cookie-128x128.png"
+  },
+  "background": {
+    "scripts": ["./background.js"]
+  },
+  "options_page": "./options.html",
+  "browser_action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": {
+    "tabs",
+    "<all_urls>",
+    "cookies",
+    "notifications",
+    "storage",
+    "\u003Call_urls\u003E",
+    "contextMenus",
+    "unlimitedStorage",
+    "clipboardWrite"
+  },
+  "manifest_version": 2,
+}
