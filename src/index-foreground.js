@@ -3,4 +3,4 @@ import { render } from 'react-dom';
 
 import Foreground from './components/Foreground.js';
 
-render(<Foreground />, document.querSelector('#foreground'));
+render(<Foreground />, document.querySelector('#foreground'));

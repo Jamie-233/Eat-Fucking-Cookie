@@ -4,10 +4,10 @@
   "homepage_url": "http://www.jiancun.io",
   "description": "Edit Input Output Cookie",
   "icons": {
-    "16": "./icon/cookie-16x16.png",
-    "32": "./icon/cookie-32x32.png",
-    "48": "./icon/cookie-48x48.png",
-    "128": "./icon/cookie-128x128.png"
+    "16": "./icons/cookie-16x16.png",
+    "32": "./icons/cookie-32x32.png",
+    "48": "./icons/cookie-48x48.png",
+    "128": "./icons/cookie-128x128.png"
   },
   "background": {
     "scripts": ["./background.js"]

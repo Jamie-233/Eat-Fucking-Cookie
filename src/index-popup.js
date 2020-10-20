@@ -3,4 +3,4 @@ import { render } from 'react-dom';
 
 import Popup from './components/Popup.js';
 
-render(<Popup />, document.querSelector('#popup'));
+render(<Popup />, document.querySelector('#popup'));

@@ -6,4 +6,4 @@ reactJS_script.src = 'foreground.bundle.js';
 
 foreground_entry_point.appendChild(reactJS_script);
 
-document.querSelector("body").appendChild(foreground_entry_point);
+document.querySelector("body").appendChild(foreground_entry_point);
