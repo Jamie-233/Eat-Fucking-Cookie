@@ -1,5 +1,5 @@
-const foreground_entry_point = document.createElement('div');
-let reactJS_script = document.createElement('script');
+var foreground_entry_point = document.createElement('div');
+var reactJS_script = document.createElement('script');
 
 foreground_entry_point.id = 'foreground';
 reactJS_script.src = 'foreground.bundle.js';
